@@ -39,10 +39,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     testCompile 'junit:junit:4.12'
-    //noinspection GradleCompatible
     compile "com.android.support:appcompat-v7:$supportVersion"
     compile "com.android.support:design:$supportVersion"
-    //noinspection GradleCompatible
     compile "com.android.support:support-v4:$supportVersion"
 
     // Google play Sign-in, MultiPlayer

@@ -9,6 +9,8 @@
     <string name="Text1">Single Player Mode</string>
     <string name="Text2">Multi Player Mode</string>
 
+    <string name="Player1">Genius</string>
+    <string name="Player2">User</string>
 
     <string name="vsEasy">Easy</string>
     <string name="vsMedium">Medium</string>
@@ -32,7 +34,7 @@
     <string name="welcome">Welcome to the Skeleton, the game!  This is network-only, so you&amp;apos;ll need to log in to play!</string>
     <string name="sign_out">Sign Out</string>
     <string name="match_instructions">Type in a new word for the data in this game, then hit done.</string>
-    <string name="quick_match">Quick match</string>
+    <string name="pairing">Pair up</string>
     <string name="continue_str">Continue</string>
     <string name="guesser_prompt">This has not been set.</string>
     <string name="clear">Clear</string>

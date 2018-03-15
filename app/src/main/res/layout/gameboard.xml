@@ -46,7 +46,7 @@
                 android:layout_centerInParent="true"
                 android:layout_toRightOf="@id/image_player_left"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Player 1"
+                android:text="@string/Player2"
                 android:textAppearance="?android:textAppearanceLarge"
                 android:textColor="@color/white" />
 
@@ -64,7 +64,7 @@
                 android:layout_centerInParent="true"
                 android:layout_toLeftOf="@id/image_player_right"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Player 2"
+                android:text="@string/Player2"
                 android:textAppearance="?android:textAppearanceLarge"
                 android:textColor="@color/white" />
 
