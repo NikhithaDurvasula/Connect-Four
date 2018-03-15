@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="game.nikhitha.connectfour.NewGameBoard">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_continue"
+            style="@style/ButtonConnectFour"
+            android:text="@string/button_continue"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/Text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Text1"
+            android:textColor="@color/white"
+            android:textAppearance="@style/SubHeading" />
+
+        <Button
+            android:id="@+id/newGameScreen"
+            style="@style/ButtonConnectFour"
+            android:text="@string/vsEasy" />
+
+        <Button
+            android:id="@+id/vsAdvanced"
+            style="@style/ButtonConnectFour"
+            android:text="@string/vsMedium" />
+
+        <Button
+            android:id="@+id/vsHard"
+            style="@style/ButtonConnectFour"
+            android:text="@string/vsHard" />
+
+        <TextView
+            android:id="@+id/Text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Text2"
+            android:textAppearance="@style/SubHeading"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/vsPlayer"
+            style="@style/ButtonConnectFour"
+            android:text="@string/vsPlayer" />
+
+        <Button
+            android:id="@+id/button_multiplayer"
+            style="@style/ButtonConnectFour"
+            android:text="@string/multiplayer" />
+
+    </LinearLayout>
+
+</FrameLayout>

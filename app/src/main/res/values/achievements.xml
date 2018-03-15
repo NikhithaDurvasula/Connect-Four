@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="sharedprefs_played_games">played</string>
+    <string name="achievement_10_played_games">CgkIhuuT_LoBEAIQAQ</string>
+    <string name="achievement_100_played_games">CgkIhuuT_LoBEAIQAg</string>
+    <string name="achievement_200_played_games">CgkIhuuT_LoBEAIQAw</string>
+    <string name="achievement_500_played_games">CgkIhuuT_LoBEAIQBA</string>
+    <string name="achievement_1000_played_games">CgkIhuuT_LoBEAIQBQ</string>
+</resources>
